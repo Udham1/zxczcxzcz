@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxczcxcz", "zxczcxcz\zxczcxcz.csproj", "{8501A10C-50A8-415D-910A-03E3334EB48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxczcxcz.UITests", "zxczcxcz.UITests\zxczcxcz.UITests.csproj", "{8451CE9C-53CB-4874-AF1F-E5B7CD156E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8451CE9C-53CB-4874-AF1F-E5B7CD156E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8451CE9C-53CB-4874-AF1F-E5B7CD156E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8451CE9C-53CB-4874-AF1F-E5B7CD156E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8451CE9C-53CB-4874-AF1F-E5B7CD156E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8501A10C-50A8-415D-910A-03E3334EB48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8501A10C-50A8-415D-910A-03E3334EB48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8501A10C-50A8-415D-910A-03E3334EB48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8501A10C-50A8-415D-910A-03E3334EB48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
